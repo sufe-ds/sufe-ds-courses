@@ -1,0 +1,59 @@
+# macOS and filesystem metadata
+.DS_Store
+._*
+Thumbs.db
+
+# Editor and IDE state
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environments and packaging output
+.venv/
+venv/
+env/
+build/
+dist/
+wheels/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# C/C++ and Qt build output
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+*.app/
+*.pro.user
+Makefile.*
+moc_*
+qrc_*
+ui_*.h
+debug/
+release/
+build-*/
+
+# MATLAB and numerical tools
+*.asv
+
+# Local config and secrets
+.env
+.env.*
+!.env.example
+config/local.*
