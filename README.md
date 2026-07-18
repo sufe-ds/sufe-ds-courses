@@ -11,17 +11,31 @@
 
 ## 贡献
 
-欢迎通过 Pull Request 贡献资料。如果你对 Git 和 GitHub 不熟悉，请参考 [AGENTS.md](./AGENTS.md)（即将推出）中的贡献指南。
+欢迎通过 Pull Request 贡献资料。如果你对 Git 和 GitHub 不熟悉，请参考 [AGENTS.md](./AGENTS.md) 和 [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)。
 
 贡献不是强制的，但希望大家或多或少参与一下，建言献策也好。
 
 > 原则上，这个仓库仅在一个学期结束之后更新。不用担心贡献资料会加剧内卷——我们的工作是在帮助后来的同学。
 
-## 关于
+## 可复制给 AI 的提示词
 
-后续计划：
+```text
+请先浏览这个仓库的 README.md、AGENTS.md 和 CONTRIBUTIONS.md，理解目录结构与贡献规范。
+
+然后根据当前任务帮我：
+1. 找出需要修改的资料或文档
+2. 尽量保持现有目录和命名风格
+3. 避免改动无关文件
+4. 如有课程资料补充，请先检查是否需要脱敏
+5. 如需提交变更，请按标准 PR 流程整理说明
+
+如果你发现仓库里已经存在相关资料，请优先沿用现有结构，不要重复创建目录。
+```
+
+## 关于
 - [sufe-ds-projects](https://github.com/sufe-ds) — 可传承的糊弄比赛 / 丰富简历 / 增长见识的项目
-- [AGENTS.md](./AGENTS.md) — Git/GitHub 贡献规范指南
+- [AGENTS.md](./AGENTS.md) — 仓库浏览与资料整理指南
+- [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) — 标准 PR 提交流程
 
 ### 上财依然衰落，我们需要做出行动。
 
